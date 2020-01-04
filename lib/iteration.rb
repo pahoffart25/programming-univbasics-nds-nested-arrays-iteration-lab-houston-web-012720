@@ -1,5 +1,5 @@
 def join_ingredients(src)
-src.each {|k| }
+src.each
 end
 
 def find_greater_pair(src)
