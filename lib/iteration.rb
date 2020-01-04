@@ -1,5 +1,5 @@
 def join_ingredients(src)
-src.each {|k,v| puts "I love #{k} and #{v} on my pizza!"}
+src.each {|k,v| puts "I love" + k " and " + v "on my pizza!"}
 end
 
 def find_greater_pair(src)
