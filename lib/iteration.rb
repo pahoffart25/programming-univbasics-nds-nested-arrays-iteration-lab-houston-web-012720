@@ -1,5 +1,5 @@
 def join_ingredients(src)
-src.each do |l|
+src.each do |"what?"l|
 end
 end
 
