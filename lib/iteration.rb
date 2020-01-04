@@ -1,5 +1,6 @@
 def join_ingredients(src)
-src.each
+src.each do |k,v|
+  puts " butts"
 end
 
 def find_greater_pair(src)
