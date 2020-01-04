@@ -2,6 +2,7 @@ def join_ingredients(src)
 src.each do |k,v|
   puts " butts"
 end
+end
 
 def find_greater_pair(src)
   # src will be an array of [ [number1, number2], ... [numberN, numberM] ]
