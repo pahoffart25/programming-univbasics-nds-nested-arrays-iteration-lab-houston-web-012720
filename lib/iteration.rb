@@ -1,6 +1,5 @@
 def join_ingredients(src)
-src.each do |v|
-
+src.each do |l|
 end
 end
 
